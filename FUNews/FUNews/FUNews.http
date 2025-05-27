@@ -1,0 +1,6 @@
+@FUNews_HostAddress = http://localhost:5064
+
+GET {{FUNews_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
